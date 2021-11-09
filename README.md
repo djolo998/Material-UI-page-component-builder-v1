@@ -8,6 +8,8 @@ All Components except (Typography) are created from json file
 
 Component Props and Component Styles can be easy changed or upgraded
 
+Preview code generated
+
 Example:
 
 ```
